@@ -1,0 +1,111 @@
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    border: 1px solid rgba(0, 0, 0, .1);
+    border-radius: 10px;
+    max-width: 680px;
+    min-width: 300px;
+    color: rgba(0, 0, 0, .7);
+    font-size: 16px;
+}
+
+.p-ini {
+    padding: 3%;
+}
+
+.logo-size {
+
+    max-width: 400px;
+    min-width: 270px;
+}
+
+.separator {
+
+    display: block;
+    width: 90%;
+    margin: 5% auto 5% auto;
+    height: 2px;
+    background: rgba(0, 0, 0, .3);
+}
+
+
+.btn {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding: 8px 18px;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 40px 100px;
+}
+
+.header-content {}
+
+.text-center {
+    text-align: center
+}
+
+.align-center {
+    vertical-align: middle;
+}
+
+.h1-style {
+    font-size: 24px;
+}
+
+.display-inline {
+    display: inline-block;
+}
+
+.display-block {
+    display: block;
+}
+
+.primary {
+    background: #091f54;
+}
+
+.primary--text {
+    color: #091f54;
+}
+
+.secondary {
+    background: #a2d419;
+}
+
+.secondary--text {
+    color: #a2d419;
+}
+
+.accent {
+    background: #5ebfd9;
+}
+
+.accent--text {
+    color: #5ebfd9;
+}
+
+.success {
+    background: #E3F2FD;
+}
+
+.success--text {
+    color: #E3F2FD;
+}
+
+.error {
+    background: #C62828;
+}
+
+.error--text {
+    color: #C62828;
+}
+
+.white {
+    background: #ffffff;
+}
+
+.white--text {
+    color: #ffffff;
+}
